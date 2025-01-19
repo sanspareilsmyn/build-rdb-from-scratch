@@ -1,1 +1,1 @@
-# build-db-from-scratch
+# build-rdb-from-scratch
